@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<form>
+    <fields addfieldpath="/administrator/components/com_fabrik/models/fields" name="params">
+        <fieldset name="plg-list-popula_list">
+            <field 
+				description="PLG_LIST_PIVOT_ROUND_TO_DESC" 
+				label="PLG_LIST_PIVOT_ROUND_TO_LABEL" 
+				name="pivot_round_to" 
+				repeat="true" 
+				size="3" 
+				type="text" 
+				default="2" 
+			/> 
+        </fieldset>
+    </fields>
+</form>
